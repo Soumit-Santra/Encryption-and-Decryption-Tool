@@ -5,7 +5,7 @@
 ![Education](https://img.shields.io/badge/Purpose-Educational%20Only-orange)
 ![Security](https://img.shields.io/badge/Security-Research%20Only-red)
 
-**Created by [Your Name] — Educational Cryptography & Cryptanalysis Tool**  
+**Created by Soumit Santra — Educational Cryptography & Cryptanalysis Tool**  
 © 2025 [Your Name]. All rights reserved.
 
 ---
