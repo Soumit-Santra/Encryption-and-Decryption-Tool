@@ -1,4 +1,4 @@
-# 🔐 Intermediate Cryptography Tool
+# 🔐Cryptography Tool
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Platform](https://img.shields.io/badge/Platform-Cross--Platform-green)
