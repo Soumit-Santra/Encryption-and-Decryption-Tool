@@ -1,3 +1,17 @@
+"""
+Cryptography-Tool
+========================================================================
+
+Copyright (c) 2025 [Soumit Santra]
+All rights reserved.
+
+===================================================================
+Author: [Soumit Santra]
+Version: 1.0
+Created: 2025
+Last Modified: 2025
+"""
+
 import sys
 import subprocess
 import pkg_resources 
@@ -1405,4 +1419,5 @@ def main():
             print(f" Fatal error: {e}")
 
 if __name__ == "__main__":
+
     main()
